@@ -3,10 +3,10 @@
 # AllLogger
 
 AllLogger is a virus that allows you to do :
-    - Install KeyLogger on target computer
-    - Upload important files from document folder to cloud (Coming Soon)
-    - Get target computer hostname (Coming Soon)
-    - Get the target computer private IP Address (Coming Soon)
+- Install KeyLogger on target computer
+- Upload important files from document folder to cloud (Coming Soon)
+- Get target computer hostname (Coming Soon)
+- Get the target computer private IP Address (Coming Soon)
 
 # Disclaimer : This Project Is For Educational Purposes Only
 I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS PROJECT
