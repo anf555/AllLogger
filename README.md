@@ -3,13 +3,15 @@
 # AllLogger
 
 AllLogger is a virus that allows you to do :
-- Install KeyLogger on target computer
 - Upload important files from document folder to cloud (Coming Soon)
-- Get target computer hostname (Coming Soon)
-- Get the target computer private IP Address (Coming Soon)
+- Get target computer hostname
+- Get the target computer private IP Address
 
 # Disclaimer : This Project Is For Educational Purposes Only
 I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS PROJECT
 
 # Description :
 When you run this project the keylogger is immediatly active and the keylogger stop when you press Esc key.
+
+# Guide :
+You need to change ftp server address, username, password
