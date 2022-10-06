@@ -3,7 +3,6 @@
 # AllLogger
 
 AllLogger is a virus that allows you to do :
-- Upload important files from document folder to cloud (Coming Soon)
 - Get target computer hostname
 - Get the target computer private IP Address
 - Get list of installed application on desktop folder
@@ -13,7 +12,9 @@ AllLogger is a virus that allows you to do :
 I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS PROJECT
 
 # Description :
-When you run this project the keylogger is immediatly active and the keylogger stop when you press Esc key.
+When you run this project its started getting target computer ip address, hostname and list of installed program on desktop folder and inserting it to sqlite3 database and uploading the database to ftp server.
+
+If you think you can improve this project you can submit it in issue tab.
 
 # Guide to make executable :
 You need to change ftp server address, username, password to your ftp server (you can create one on 000webhost for free) on main.py
