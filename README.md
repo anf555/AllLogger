@@ -18,6 +18,6 @@ When you run this project its started getting target computer ip address, hostna
 If you think you can improve this project you can submit it in issue tab.
 
 # Guide to make executable :
-1.Create ftp server (if you dont have one)
-2.Change ftp server address, username, password in main.py to your ftp server and login credential
-3.Compile python script to executables(.exe) using pyinstaller or auto-py-to-exe
+1.Create ftp server (if you dont have one).
+2.Change ftp server address, username, password in main.py to your ftp server and login credential.
+3.Compile python script to executables(.exe) using pyinstaller or auto-py-to-exe.
