@@ -6,6 +6,8 @@ AllLogger is a virus that allows you to do :
 - Upload important files from document folder to cloud (Coming Soon)
 - Get target computer hostname
 - Get the target computer private IP Address
+- Get list of installed application on desktop folder
+- Get list of installed program using wmic product get name
 
 # Disclaimer : This Project Is For Educational Purposes Only
 I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS PROJECT
