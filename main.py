@@ -43,7 +43,6 @@ except IndexError as e:
         conn.close()
         session = ftplib.FTP('server.address.com','username', 'password')
         file = open('appdatabase.db','rb')
-        randnum = ( ''.join(random.choices(numbers, k=20)))
         session.storbinary('STOR appdatabase' + randnum + '.db', file)
         file.close()
         session.quit()
