@@ -2,7 +2,7 @@
 
 # AllLogger
 
-AllLogger is a virus that allows you to do :
+AllLogger is a tools that allows you to do :
 - Get target computer hostname
 - Get the target computer private IP Address
 - Get list of installed application on desktop folder
