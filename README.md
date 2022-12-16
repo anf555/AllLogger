@@ -18,4 +18,4 @@ If you think you can improve this project you can submit it in issue tab.
 - Run the file on target computer
 
 # Data output :
-<p align="center"><img alt="project-logo" width="100" src="https://github.com/anf555/AllLogger/blob/d8320ac3dcf6780d0785d92e04b1702d57226951/images/data-output.png"></p>
+<p align="center"><img alt="project-logo" width="500" src="https://github.com/anf555/AllLogger/blob/d8320ac3dcf6780d0785d92e04b1702d57226951/images/data-output.png"></p>
