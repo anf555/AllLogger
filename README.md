@@ -3,17 +3,11 @@
 # AllLogger
 
 AllLogger is a security tools that allows you to do :
-- Get target computer hostname
-- Get the target computer private IP Address
-- Get list of installed application on desktop folder
-- Get list of installed program using wmic product get name
-- Insert all of that data to sqlite3 database and upload it to the cloud
-
-# Disclaimer : This Project Is For Educational Purposes Only
-I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS PROJECT
+- Get list of installed program
+- Insert that data to sqlite3 database and upload it to the cloud
 
 # Description :
-When you run this project its started getting target computer ip address, hostname and list of installed program on desktop folder and inserting it to sqlite3 database and uploading the database to ftp server.
+When you run this project its started getting ip address, hostname and list of installed program on desktop folder and inserting it to sqlite3 database and uploading the database to ftp server.
 
 If you think you can improve this project you can submit it in issue tab.
 
@@ -24,3 +18,4 @@ If you think you can improve this project you can submit it in issue tab.
 - Run the file on target computer
 
 # Data output :
+<p align="center"><img alt="project-logo" width="100" src="https://github.com/anf555/AllLogger/blob/d8320ac3dcf6780d0785d92e04b1702d57226951/images/data-output.png"></p>
