@@ -2,7 +2,7 @@
 
 # AllLogger
 
-AllLogger is a tools that allows you to do :
+AllLogger is a security tools that allows you to do :
 - Get target computer hostname
 - Get the target computer private IP Address
 - Get list of installed application on desktop folder
@@ -22,3 +22,5 @@ If you think you can improve this project you can submit it in issue tab.
 - Change ftp server address, username, password in main.py to your ftp server login credential.
 - Compile python script to executables(.exe) using pyinstaller or auto-py-to-exe.
 - Run the file on target computer
+
+# Data output :
