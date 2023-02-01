@@ -18,7 +18,7 @@ If you think you can improve this project you can submit it in issue tab.
 - Run the file on target computer
 
 # Data output :
-<p align="center"><img alt="project-logo" width="700" src="https://raw.githubusercontent.com/anf555/AllLogger/main/images/data-output.png"></p>
+<p align="center"><img alt="project-logo" width="700" src="https://github.com/anf555/AllLogger/raw/main/images/data-output.png"></p>
 
 # FTP server :
 <p align="center"><img alt="project-logo" width="700" src="https://raw.githubusercontent.com/anf555/AllLogger/main/images/servers.png"></p>
