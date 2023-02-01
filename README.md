@@ -1,4 +1,4 @@
-<p align="center"><img alt="project-logo" width="100" src="https://raw.githubusercontent.com/anf555/AllLogger/main/images/logo.png"></p>
+<p align="center"><img alt="project-logo" width="100" src="https://github.com/anf555/AllLogger/raw/main/images/Logo.png"></p>
 
 # AllLogger
 
